@@ -2,9 +2,6 @@
 
 **Universidad del Desarrollo**  
 **Curso:** Minería de Texto  
-**Profesor:** María Raveau  
-**Fecha de entrega:** 20 de julio de 2025, 23:59  
-**Autor:** Camilo Rivera  
 
 ## Descripción
 
@@ -24,15 +21,15 @@ A partir de los textos de fundamento, se realiza un análisis exploratorio y vis
 
 ## Estructura del repositorio
 
-📁 mineria_de_texto_NLP/
-├── tarea1_camilo_rivera.ipynb # Código comentado en Jupyter Notebook
-├── data/
-│ └── resultadocabildoprovincial.xlsx # Dataset de los cabildos (visto en clases)
-├── outputs/
-│ ├── wordcloud_tokens.png
-│ ├── wordcloud_bigramas.png
-│ └── red_bigramas.png
-└── README.md
+📁 mineria_de_texto_NLP/  
+├── tarea1_camilo_rivera.ipynb # Código comentado en Jupyter Notebook  
+├── data/  
+│ └── resultadocabildoprovincial.xlsx # Dataset de los cabildos  
+├── outputs/  
+│ ├── wordcloud_tokens.png  
+│ ├── wordcloud_bigramas.png  
+│ └── red_bigramas.png  
+└── README.md  
 
 
 ## Librerías utilizadas
