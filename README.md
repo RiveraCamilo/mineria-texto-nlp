@@ -1,8 +1,5 @@
 # Minería de Texto (NLP)
 
-**Universidad del Desarrollo**  
-**Curso:** Minería de Texto  
-
 ## Descripción
 
 Este proyecto aborda la extracción de contenido útil a partir de los textos de los **cabildos provinciales de 2016**, en el contexto de una solicitud hipotética realizada por una agencia gubernamental interesada en conocer las opiniones de los participantes.
