@@ -22,6 +22,7 @@
 
 # ignore dataset folder and subfolders
 data/raw/
+notebooks
 
 # Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
